@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -19,22 +20,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -48,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3310-remove-methods-from-project) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
