@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
