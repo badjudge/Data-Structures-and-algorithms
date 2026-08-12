@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
