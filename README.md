@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
