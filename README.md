@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1392-longest-happy-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
