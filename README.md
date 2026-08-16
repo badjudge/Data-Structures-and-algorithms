@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -142,4 +143,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
