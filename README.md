@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2029-stone-game-ix) |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
 | [3310-remove-methods-from-project](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
 | [3310-remove-methods-from-project](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3310-remove-methods-from-project) |
 ## Recursion
 |  |
@@ -206,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
+## Eulerian Path
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
