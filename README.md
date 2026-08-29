@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1406-stone-game-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/0115-distinct-subsequences) |
 | [1392-longest-happy-prefix](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/badjudge/Data-Structures-and-algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
